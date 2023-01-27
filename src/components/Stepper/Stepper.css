@@ -1,0 +1,15 @@
+.steps-wrapper {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 5rem;
+}
+
+.step-container {
+  padding: 1rem;
+  border: 1px solid white;
+}
+
+.step-container.active {
+  background-color: white;
+  color: black;
+}

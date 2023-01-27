@@ -1,0 +1,19 @@
+.step3-form-container {
+  display: grid;
+  grid-template-columns: auto auto;
+  column-gap: 5rem;
+  row-gap: 1rem;
+}
+
+.add-btn {
+  margin-top: 2rem;
+}
+
+.remove-btn {
+  margin-left: 0.5rem;
+  padding: 0.5rem 1.2rem;
+}
+
+.error-container {
+  margin-top: 2rem;
+}
